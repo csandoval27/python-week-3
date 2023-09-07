@@ -171,7 +171,8 @@ num1 = 7.5
 num2 = 2.5
 print(num1 + num2)
 
-#################################Data Type conversions####################
+#
+##############################Data Type conversions####################
 # slides 12 -19
 # Data Type Conversions Practice #1
 # Convert the value of num1 to an integer and print the resulting data type.
